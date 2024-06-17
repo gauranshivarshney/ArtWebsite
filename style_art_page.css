@@ -52,7 +52,7 @@ h1{
 }
 
 .nav a:hover{
-    background-color: black;
+    color: rgb(246, 71, 71);;
     border-radius: 98%;
 }
 
